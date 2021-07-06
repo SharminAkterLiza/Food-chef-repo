@@ -39,3 +39,40 @@ font-weight: 900;}
 background-image: url(Frame\ 58.jpg);
 background-repeat: no-repeat;
 }
+#mid2-part
+{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.foodpic-width img
+{
+padding: 20px;
+    width:90%;
+    
+   
+
+}
+.shadow
+{
+    box-shadow: 10px 10px 30px gray;
+    width:50%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.font-balance
+{
+padding-left: 10px;
+padding-right: 10px;
+}
+footer{
+    text-align: center;
+    color:white;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2px;
+    padding-bottom:4%;
+    background-color: black ;
+    font-size: 5px;
+    }
